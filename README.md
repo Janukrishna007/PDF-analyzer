@@ -196,6 +196,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ using Next.js, React, and OpenAI**
-
-*Ready to analyze your PDFs? Upload a document and start asking questions!*
